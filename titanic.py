@@ -136,7 +136,7 @@ with interface:
             
             time.sleep(1)
             
-            st.markdown(body=f'Model output: Your chance of survival is **{survival_probability:.0}%**')
+            st.markdown(body=f'Model output: Your chance of survival is **{survival_probability:.0%}%**')
             
 with sidebar:
 
