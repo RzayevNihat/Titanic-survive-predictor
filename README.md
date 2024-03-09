@@ -5,9 +5,9 @@ This machine learning project utilizes a supervised binary classification algori
 
 ### Input Features
 Gender, Adult Status, and Alone Status
-Gender: Choose between 'Male' or 'Female'.
-Adult Status: Indicate whether you are an adult or not.
-Alone Status: Specify if you are traveling alone or not.
+- Gender: Choose between 'Male' or 'Female'.
+- Adult Status: Indicate whether you are an adult or not.
+- Alone Status: Specify if you are traveling alone or not.
 Additional Numeric Features
 Age: Adjust the slider to indicate your age.
 Number of Siblings & Spouse Aboard (Sibsp): Use the slider to specify the number.
