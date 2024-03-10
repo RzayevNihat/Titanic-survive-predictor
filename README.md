@@ -1,5 +1,5 @@
 
-# Titanic Survival Prediction
+# [Titanic Survival Prediction](https://titanic-survive-predictor-die4smct3xmt65v8hwwuni.streamlit.app/)
 
 https://titanic-survive-predictor-die4smct3xmt65v8hwwuni.streamlit.app/
 
