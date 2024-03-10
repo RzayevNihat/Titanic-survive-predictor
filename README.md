@@ -1,8 +1,6 @@
 
 # [Titanic Survival Prediction](https://titanic-survive-predictor-die4smct3xmt65v8hwwuni.streamlit.app/)
 
-https://titanic-survive-predictor-die4smct3xmt65v8hwwuni.streamlit.app/
-
 ## Project Description
 This machine learning project utilizes a supervised binary classification algorithm to predict whether a passenger would survive the Titanic accident. The model has been implemented in Python using the Scikit-Learn library, employing the Logistic Regression algorithm for predictions.
 
